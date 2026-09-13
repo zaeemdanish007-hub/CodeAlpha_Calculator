@@ -47,6 +47,6 @@ LinkedIn: https://www.linkedin.com/in/zaeem-danish-920a01372/
 
 ## 📸 Preview
 
-![Calculator Preview](images/calculator.png)
+![Calculator Preview](images/Calculator.png)
 
 ⭐ If you like this project, feel free to give it a star!
