@@ -29,11 +29,13 @@ CodeAlpha_Calculator/
 ├── script.js
 ├── README.md
 └── images/
+
 💻 How to Run
 Clone this repository:
 git clone https://github.com/zaeemdanish007-hub/CodeAlpha_Calculator
 Open the project folder.
 Open index.html in your web browser.
+
 🎯 Internship Task
 
 This project was created as part of Task 2 — Calculator for my CodeAlpha Frontend Development Internship.
@@ -44,8 +46,6 @@ Zaeem Danish
 
 GitHub: https://github.com/zaeemdanish007-hub
 LinkedIn: https://www.linkedin.com/in/zaeem-danish-920a01372/
-
-## 📸 Preview
 
 ## 📸 Preview
 
