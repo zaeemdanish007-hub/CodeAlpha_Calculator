@@ -45,6 +45,8 @@ Zaeem Danish
 GitHub: https://github.com/zaeemdanish007-hub
 LinkedIn: https://www.linkedin.com/in/zaeem-danish-920a01372/
 
-Calculator.png
+## 📸 Preview
+
+![Calculator Preview](images/calculator.png)
 
 ⭐ If you like this project, feel free to give it a star!
